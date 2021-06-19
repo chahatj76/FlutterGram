@@ -1,0 +1,53 @@
+name: flutter_gram
+description: A Social Media App.
+
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  animator: ^1.0.0+5
+  cached_network_image: null
+  cloud_firestore: ^0.13.5
+  cupertino_icons: ^0.1.2
+  firebase_auth: ^0.16.0
+  firebase_messaging: ^6.0.13
+  firebase_storage: ^3.1.5
+  flutter_svg: ^0.19.1
+  geolocator: ^5.3.1
+  google_sign_in: ^4.4.4
+  image: ^2.1.4
+  image_picker: ^0.6.5+3
+  path_provider: ^1.6.7
+  timeago: ^2.0.26
+  uuid: ^2.0.4
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  uses-material-design: true
+  fonts:
+    - family: Signatra
+      fonts:
+        - asset: assets/fonts/Signatra.ttf
+  assets:
+    - assets/images/google_signin_button.png
+    - assets/images/upload.svg
+    - assets/images/search.svg
+    - assets/images/activity_feed.svg
+    - assets/images/no_content.svg
+
