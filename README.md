@@ -1,6 +1,15 @@
 # flutter_gram
 
 A Social Media App.
+<br><br>
+<img src="https://user-images.githubusercontent.com/59438382/125775375-2b4a15ba-715b-44e1-8b20-fcdb7ef06f1d.png" width="250" height="500">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/59438382/125775249-0d19fafd-f310-4df0-a0ac-3fea7303cff3.png" width="250" height="500">
+<br><br>
+<img src="https://user-images.githubusercontent.com/59438382/125775492-98cd3272-7860-49b8-a3c0-441bb30af6a4.png" width="250" height="500">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/59438382/125775605-20cb2032-f838-432e-96f5-706c1a0fd1d9.png" width="250" height="500">
+
 
 ## Getting Started
 
